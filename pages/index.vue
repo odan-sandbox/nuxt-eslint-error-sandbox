@@ -1,9 +1,10 @@
 <template>
-  <Tutorial/>
+  <Tutorial />
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import Vue, { PropType } from 'vue'
 
 export default Vue.extend({})
 </script>
